@@ -4,4 +4,4 @@ The main goal of this project is to present a completed panel for demographic in
 
 Please see below the final result:
 
-[!Dashboard_screenshot](Dashboard_screenshot.png)
+[!Dashboard_screenshot](/Dashboard_screenshot.PNG)
