@@ -1,0 +1,12 @@
+.jumbotron {
+    background-image: url("../images/background.png");
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+
+.jumbotron h1 {
+    color:white
+}
+
+
+body {background-color: rgba(182, 221, 245, 0.822);}
